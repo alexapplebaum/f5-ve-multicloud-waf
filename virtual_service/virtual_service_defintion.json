@@ -46,8 +46,8 @@
                   "servicePort": 80,
                   "addressDiscovery": "aws",
                   "updateInterval": 5,
-                  "tagKey": "f5demoapp",
-                  "tagValue": "f5-demo-app-1.0.1",
+                  "tagKey": "aws:autoscaling:groupName",
+                  "tagValue": "f5demoapp-prod-v028",
                   "addressRealm": "private",
                   "region": "us-east-1"
                 }
