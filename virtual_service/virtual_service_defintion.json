@@ -47,7 +47,7 @@
                   "addressDiscovery": "aws",
                   "updateInterval": 5,
                   "tagKey": "aws:autoscaling:groupName",
-                  "tagValue": "f5demoapp-prod-v028",
+                  "tagValue": "f5demoapp-prod-v030",
                   "addressRealm": "private",
                   "region": "us-east-1"
                 }
