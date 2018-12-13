@@ -45,7 +45,7 @@
                 {
                   "servicePort": 80,
                   "addressDiscovery": "aws",
-                  "updateInterval": 5,
+                  "updateInterval": 10,
                   "tagKey": "aws:autoscaling:groupName",
                   "tagValue": "f5demoapp-prod-v028",
                   "addressRealm": "private",
